@@ -4,7 +4,7 @@
 Build a simple interactive dashboard to show sales performance by product, region, and month.
 
 ## Dataset
-- Superstore_Sales.csv  
+- Superstore_Sales.csv - https://www.kaggle.com/datasets/vivek468/superstore-dataset-final 
 - Columns: Order Date, Region, Category, Sales, Profit
 
 ## Tools Used
